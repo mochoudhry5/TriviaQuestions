@@ -1,4 +1,4 @@
-/*
+/**
  * Program that gives the user Trivia questions and lets them know whether
  * their answer was correct or incorrect 
  * @author momin choudhry
